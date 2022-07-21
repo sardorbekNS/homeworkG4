@@ -94,6 +94,6 @@
 // React 4 main features 
 // export vs export default
 // as 
-// components prop
+// components prop , children , style
 // state
 
